@@ -36,9 +36,9 @@ waypoints = [
 # Add a new waypoint to the list
 # YOUR CODE HERE
 waypoints.append({
-    "lat": 42,
-    "lon": -108,
-    "name": "a nearby place"
+    "lat": 54,
+    "lon": -84,
+    "name": "a fourth place"
 })
 
 
