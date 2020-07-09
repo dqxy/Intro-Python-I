@@ -24,7 +24,7 @@ def f2(*addends):
 print(f2(1))                    #  print 1
 print(f2(1, 5))                 #  print 8
 print(f2(1, 5, -12))            #  print -6
-print(f2(7, 9, 1, 3, 4, 8, 0))  #  print 33
+print(f2(7, 9, 1, 3, 4, 8, 0))  #  print 32
 
 a = [7, 6, 5, 4]
 
